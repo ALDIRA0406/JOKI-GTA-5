@@ -1,0 +1,15 @@
+{
+  "name": "pemburu-heist-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website jasa GTA 5 Online Legacy dan Enchanted, siap dijalankan lokal di VS Code.",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "start": "vite --host 0.0.0.0",
+    "preview": "vite preview --host 0.0.0.0",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  }
+}
